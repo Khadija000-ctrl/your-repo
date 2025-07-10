@@ -2,7 +2,7 @@
 <application-state>
   <context id="">
     <application id="ubuntu-desktop-bootstrap_ubuntu-desktop-bootstrap.desktop" score="24" last-seen="1752167273"/>
-    <application id="firefox_firefox.desktop" score="243" last-seen="1752170874"/>
-    <application id="org.gnome.Terminal.desktop" score="264" last-seen="1752171102"/>
+    <application id="firefox_firefox.desktop" score="322" last-seen="1752171912"/>
+    <application id="org.gnome.Terminal.desktop" score="296" last-seen="1752171916"/>
   </context>
 </application-state>
